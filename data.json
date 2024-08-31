@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": "2001",
+    "email": "alice@test.com",
+    "name": "alice",
+    "wordlist": ["hello","yes","pop"],
+    "negativelist": ["negative","words"]
+  },
+  {
+    "user_id": "1001",
+    "email": "bob@test.com",
+    "name": "bobby",
+    "wordlist": ["hello","yes","pop"],
+    "negativelist": ["negative","words"]
+  }
+]
